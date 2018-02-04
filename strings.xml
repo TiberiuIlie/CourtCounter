@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="teamA">TeamA</string>
+    <string name="teamB">TeamB</string>
+    <string name="scoreTeamA">0</string>
+    <string name="scoreTeamB">0</string>
+    <string name="foulsTeamA">0</string>
+    <string name="foulsTeamB">0</string>
+    <string name="offsidesTeamA">0</string>
+    <string name="offsidesTeamB">0</string>
+    <string name="goals">Goal</string>
+    <string name="fouls">Foul</string>
+    <string name="offsides">Offside</string>
+    <string name="reset">Reset</string>
+</resources>
